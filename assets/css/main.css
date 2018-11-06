@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster|Spicy+Rice');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Spicy+Rice');
 
 body {
 	background-color: #ebc9d7;
@@ -34,7 +34,7 @@ body {
 }
 
 .message {
-	padding: 5px;
+	padding: 20px;
 	font-size: 40px;
-	font-family: 'Lobster', cursive;
+	font-family: 'Roboto Condensed', sans-serif;
 }
